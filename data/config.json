@@ -1,0 +1,12 @@
+{
+  "quiz_title": "Photography Knowledge Quiz",
+  "timeout_seconds": 30,
+  "questions_per_session": 5,
+  "allow_retake": true,
+  "language": "tw",
+  "questions_file": "question_01.json",
+  "quiz_labels": {
+    "question_00.json": "Photography Basics Quiz",
+    "question_01.json": "Photography Knowledge Quiz"
+  }
+}
