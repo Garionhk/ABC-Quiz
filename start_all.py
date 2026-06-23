@@ -12,7 +12,7 @@ from setup import run_setup
 
 def main():
     print("=========================================================")
-    print("           STARTING QUIZ PLATFORM CHANNELS               ")
+    print("              STARTING ABC-QUIZ CHANNELS                 ")
     print("=========================================================")
 
     # 1. Self-healing: Run setup if data directory or user accounts are missing

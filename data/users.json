@@ -1,12 +1,7 @@
 [
   {
     "username": "student1",
-    "password_hash": "bd94dcda26fccb4e68d6a31f9b5aac0b571ae266d822620e901ef7ebe3a11d4f",
-    "role": "student"
-  },
-  {
-    "username": "student2",
-    "password_hash": "bd94dcda26fccb4e68d6a31f9b5aac0b571ae266d822620e901ef7ebe3a11d4f",
+    "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
     "role": "student"
   },
   {

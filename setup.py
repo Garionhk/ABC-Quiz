@@ -4,9 +4,9 @@ from utils import save_json, hash_password
 def run_setup():
     """
     Initializes the directories and standard data files (config, questions, users)
-    needed to run the quiz platform.
+    needed to run ABC-Quiz.
     """
-    print("Initializing quiz platform data files...")
+    print("Initializing ABC-Quiz data files...")
     
     # 1. Create Directories
     data_dir = "data"
